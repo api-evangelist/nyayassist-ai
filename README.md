@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NyayAssist is an AI‑powered legal assistant platform targeting Indian lawyers and law students. It offers case tracking, document drafting, legal research, and workflow automation to reduce repetitive tasks. Pricing plans start at ₹99 per month, with enterprise solutions available. The service emphasizes improving efficiency in the Indian legal ecosystem through AI-driven tools.
+NyayAssist is an AI‑powered legal assistant designed for Indian lawyers and law students. It automates drafting, research, case tracking and workflow management, reducing repetitive tasks and improving efficiency. The platform offers subscription plans starting at ₹99 /month and enterprise solutions, aiming to modernise the Indian legal ecosystem with intelligent tools and integrated case management.
 
-**Areas:** Legal AI · Case Management · Legal Research · Document Automation · Law Firm Tools
+**Areas:** LegalTech · AI · India · SaaS · LawStudents
 
 ## NyayAssist on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for NyayAssist is published on APIs.io rather than in this r
 
 ### APIs (1)
 
-- [NyayAssist API](https://apis.io/apis/nyayassist-ai/nyayassist-api/) — NyayAssist MCP API as documented
+- [NyayAssist API](https://apis.io/apis/nyayassist-ai/nyayassist-api/) — API for NyayAssist legal assistant platform
 
 ### Published properties
 
@@ -97,16 +97,17 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://nyayassist.ai/)
-- [Documentation](https://nyayassist.ai/pricing)
+- [Documentation](https://docs.nyayassist.ai/)
 - [Getting started](https://docs.nyayassist.ai/enterprise/get-started/)
 - [Pricing](https://nyayassist.ai/pricing)
 - [Support](https://support.nyayassist.ai/)
+- [Blog](https://nyayassist.ai/resources?tab=blogs)
 - [Terms of service](https://nyayassist.ai/terms-of-use)
 - [Privacy policy](https://nyayassist.ai/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 19.6** — emerging · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 18.4** — emerging · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
@@ -114,8 +115,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 26.2 |
-| Access clarity | 48.5 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 40.9 |
 
 **Agent readiness 3.1** — human-only
 
@@ -144,7 +145,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nyayassist-ai/](https://apis.io/providers/nyayassist-ai/).
 
